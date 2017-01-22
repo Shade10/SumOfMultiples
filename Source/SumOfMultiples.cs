@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace sum_of_multiples
 {
-    public class Class1
+    public class SumOfMultiples
     {
+
     }
 }
